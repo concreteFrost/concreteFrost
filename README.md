@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @concreteFrost
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in GameDev and Web
+- 🌱 I’m currently working in Cocoon Technology
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me: ilia.m.composer@gmail.com
 
